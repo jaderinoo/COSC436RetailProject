@@ -1,0 +1,186 @@
+.header {
+  background: linear-gradient(to right, darkblue , white);
+  padding: 10px 10px;
+  left: 0;
+}
+
+.headergif{
+float:right;
+margin-right: -200px;
+}
+
+body{
+	margin: 0px;
+	
+}
+
+.resize {
+    width:340px; 
+    height: auto;
+}
+
+.header-right {
+	padding-top: 60px;
+	padding-right: 20px;
+	float: right;
+
+}
+
+.navigation {
+  padding: 0px 15px;
+  word-wrap: normal;
+  display: inline-block;
+  
+}
+
+.navigationside {
+  padding: 0px 10px;
+  display: inline-block;
+  
+}
+
+p.thick{
+	padding: 15px 5px;
+	font-weight: bold;
+}
+
+p.thick2{
+	font-weight: bold;
+	font-size: 1.5em;
+	padding-top: 10px;
+}
+.selection{
+	background-color: #FFBE70;
+	margin: 0;
+	padding: 0;
+}
+.sidebar {
+	height: 150%;
+    width: 165px;
+    padding-top: 20px;
+	left: 0;
+	position: absolute;
+    background: #eee;
+    padding: 10px 0;
+	white-space: normal;
+	overflow-x: hidden;
+	
+}
+.sidebar p{
+	margin-top: -10px;
+}
+
+.footer{
+	left: 0;
+	background: linear-gradient(to right, darkblue , white);
+	color: white;
+	position:fixed;
+	bottom:0;
+	width:100%;
+}
+
+.footerlogo{
+	color: white;
+	position:absolute;
+	bottom:0;
+	right: 0;
+	margin-right: 5px;
+}
+
+p {
+   margin: 0px;
+   padding: 0px;
+}
+
+.main{
+    margin-left: 165px; 
+    font-size: 15px; 
+    padding: 0px 10px;
+
+}
+
+.productright{
+	float: right;
+	width: 300px;
+	
+}
+
+.productimg{
+	position:absolute;
+}
+
+.imgresize175{
+	width:175px;
+	height: auto;
+}
+.productbar{
+	height: 225px;
+	bottom: -31px;
+	position: relative;
+	width: 500px;
+}
+
+.product{
+	background: linear-gradient(to right, darkblue , white);
+	width: 500px;
+	height: 225px;
+	margin-top: 10px;
+}
+
+.product tr, th, td{
+	right: 0;
+}
+
+.product h3{
+	background: #FFBE70;
+	display:inline-block;
+	width: 100%;
+	margin: 0;
+	
+}
+
+
+.h3right{
+	float: right;
+}
+
+.product img{
+	margin: 15px 0 15px 15px; 
+	height: auto;
+}
+
+.h4pad{
+	padding-left: 10px;
+}
+
+#inner{
+	width: 50%;
+	margin: 0 auto;
+	border: 1px solid black;
+	background: linear-gradient(to right, darkblue , white);
+	color: #FFBE70;
+	
+}
+
+#inner2{
+	width: 50%;
+	margin: 0 auto;
+}
+
+#outer{
+	width: 100%;
+}
+
+.accountform{
+	border: 1px solid black;
+	width: 367.5px;
+	background-color: lightgray;
+	table-layout: auto;
+}
+
+#input{
+	width: 150px;
+}
+.footer a{
+	color:#FFBE70;
+}
