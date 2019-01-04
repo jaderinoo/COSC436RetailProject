@@ -6,4 +6,4 @@ Uses: PHP, HTML, and Javascript.
 
 Depiction:
 
-![ ](Screenshot.jpg)
+![ ](/screenshot.png)
